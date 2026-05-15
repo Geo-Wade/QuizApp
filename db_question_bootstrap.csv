@@ -1,0 +1,16 @@
+Java,Easy,Class,interface,extends,Implements,Which Java Keyword is used to create a subclass,extends
+Java,Easy,4,5,6,Compile Error,what is the output of the following code snippet,5
+Java,Easy,True,false ,0,null,In Java what is the default value of an uninitialized boolean variable ,false
+Java,Easy,try,throw,catch,finally,Which Java Keyword is used to explicitely throw an exception,throw
+Java,Easy,It indicates that a variable is constant ,It indicates that a method can be accessed without create an instance of the class,It indicates that a calss cannot be extended,It indicates that a variable is of primitive type,What does the 'static' keyword mean in Java,It indicates that a method can be accessed without create an instance of the class
+Java,Easy,Constant int x = 5,final int x =5,static int x = 5,readonly int x = 5,What is the correct way to declare a constant variable in Java,final it x=5
+Java,Easy,for loop,while loop,do-while loop,switch loop,Which loop in Java allows the code to be executed at least once ,do-while loop
+Java,Easy,To terminate a loop or switch ,To skip the rest of the code in a loop an dmove to the next iteration ,To define a labelfor a loop o switch statement ,To check a condition and execute a block of code repeatedly ,What is the purpose of the 'break' statement in Java,To terminate a loop or switche statement and transfer control to the next statement 
+Java,Easy,+,-,*,/,Which Java operator is used to concatenate two strings?,+
+Java,Easy,HashMap,ArrayList,LinkedList,HashSet,In Java which collection class provides an impmentation of a dynamic array,ArrayList
+Python,Easy,count(),size(),length(),len(),Which Python function is used to calculate the length of a list,len()
+Python,Easy,[1 2 3],[1 2 3 4],[4 3  2 1],Error,What is the output of the following Python code snippet,[1 2 3 4]
+Python,Easy,break,continue,pass,return,What Python statement is used to exit from a loop prematurely ,break
+Python,Easy,To generate a random number within a givin range,To iterate over a sequence of numbers,To sort a list in ascending order,To calculate the length of a string,What is the purpose of the 'range()' function in Python,To iterate over a sequence of numbers
+Python,Easy,int,float,str ,list,In Python which data type is mutable ,list
+Python,Easy,datetime,math,os,sys,Which Python module is use for working with dates and times ,datetime
